@@ -7,13 +7,10 @@ assignees: ''
 
 ---
 
-**Relates to**
-Component or Docs or Other.
-
-**Is your feature request related to a problem? Please describe.**
+**Is your feature request related to an problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+**Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
