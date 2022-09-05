@@ -1,6 +1,6 @@
-# Contributing to this project.
+# Contributing Guidelines
 
-Welcome! We encourage contributions and here's a few important guidelines we would like you to follow:
+Welcome! We encourage contributions, same basic guidelines:
 
 * [Code of Conduct](#code-of-conduct)
 
